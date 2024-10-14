@@ -15,12 +15,8 @@ A Python script to automate connectivity tests for SNMP and SSH.
 
 Run the script with:
 ```
-python src/network_connectivity_tester/main.py
+python src/network_connectivity_tester/main.py [file_path_name] [column_name]
 ```
-
-## Testing
-
-Run the tests with: `python -m unittest discover tests`
 
 ## License
 
